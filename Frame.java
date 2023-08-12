@@ -14,6 +14,7 @@ class Frame {
 	a.setBounds(50,50,200,100);
 	c.add(a);
 	a.setText("My name is varsha");
+	a.setText("My name is Rani");
 	//a.setEnabled(false);
 	a.setLineWrap(true);
 	//a.setVisible(false);
